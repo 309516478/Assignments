@@ -19,6 +19,18 @@ Date  Who       Start	Stop	Interruptions Question TimeOnTask	Comments
 9/03 Jinlong	9:17	11:25	4		0	120		Start Reading the HtDP2e. Finished part of the prologue.
 9/03 Jinlong	14:27	16:26	2		0	70		Finished the prologue part. Have read parts of the Fixed-Size Data.
 9/06 Jinlong	16:18	17:18	0		0	60		Stopped at the beginning of the chapter 2 of Part I. I think I could go through the slides quickly again.	
-9/08 Jinlong	10:00	11:51	1		1	105		Go through Lesson 1.3 - Lesson 1.5 slides again and finished Guided Practice 1.1.
+9/08 Jinlong	22:00	23:51	1		1	105		Go through Lesson 1.3 - Lesson 1.5 slides again and finished Guided Practice 1.1.
 									Questions:
 										Q1: Didn't see the "organizations" tab.
+9/09 Jinlong	10:00	13:07	2		3	175		Watched 1 - 16 John Clements's videos. Finished Ex1-Ex5.
+									Questions:
+										Q1: Do I have to write whole contents of design recipe in the comments of EX1. Plus the information analysis
+										and data definition in the Ex3?
+										Q2: is the second example wrong in Ex3?
+										Q3: Can't use check-equal?
+9/09 Jinlong	14:45	18:12	3		0	195		Finished Ex5-Ex15
+									Questions:
+										Q1: "even" was defined. Can I use another name?
+										Q2: Can't use "set00/1.rkt" as the name of the file.
+
+		
